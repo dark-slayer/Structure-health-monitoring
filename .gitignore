@@ -1,0 +1,14 @@
+*.pyc
+*.json
+.idea/*
+.venv/*
+boltzmann_machines/test_rbm_1/*
+boltzmann_machines/test_rbm_2/*
+data/*.npy
+data/mnist/
+data/cifar-10-batches-py/
+notebooks/.ipynb_checkpoints/*
+models/*
+!models/fetch_models.sh
+tex/*.swp
+.idea
